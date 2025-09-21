@@ -1,4 +1,4 @@
-# OIBSIP_DataCleaning_Project_1_Level_1
+# Data Cleaning Airbnb
 
 ## 📌 Project Objective
 The goal of this project was to clean and preprocess the dataset to make it ready for analysis. The dataset contained missing values, and extreme outliers that required systematic cleaning.
