@@ -18,5 +18,7 @@ The goal of this project was to clean and preprocess the dataset to make it read
 - Reduced dataset inconsistencies and noise.
 - Created a final cleaned dataset (`cleaned.csv`) ready for visualization and machine learning tasks.
 
-## 📂 Project Structure
+## 👤 Author
+Ashish Kumar Paswan  
+Oasis Infobyte Internship (Data Science Domain)
 
